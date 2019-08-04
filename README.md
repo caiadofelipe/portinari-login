@@ -1,3 +1,8 @@
+# Usuário e Senha de teste
+
+usuario: exemplologin
+senha: 1234
+
 # ExemploLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
