@@ -5,4 +5,4 @@ senha: 1234
 
 # ExemploLogin
 
-Fiz este exemplo de login com os componentes do portinari e templates do CSS da totvs.
+Exemplo de utilização do po-page-login do portinari e templates do CSS da totvs.
