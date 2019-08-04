@@ -1,0 +1,7 @@
+<router-outlet></router-outlet>
+
+<po-page-login
+  p-hide-remember-user="true"
+  [p-loading]="loading"
+  (p-login-submit)="loginSubmit($event)">
+</po-page-login>
